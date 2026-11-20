@@ -7,7 +7,7 @@
 - **Sponsor**: Luca Chang ([@LucaButBoring](https://github.com/LucaButBoring))
 - **Associated Working Group**: MCP Agents Working Group
 - **Proposed Extension Identifier**: `io.github.stafordtituss/amep-evidence`
-- **PR**: TBD
+- **PR**: [#31](https://github.com/modelcontextprotocol/agents-ig/pull/31)
 
 ## Abstract
 
